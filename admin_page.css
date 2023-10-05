@@ -2,9 +2,7 @@ body {
     width: 100%;
 }
 
-.main-container {
 
-}
 
 .login img {
     width: 120px;
@@ -35,7 +33,16 @@ body {
     float: right;
     height: auto;
     flex-wrap: wrap;
+    
     margin-left: 100px;
     padding-left: 100px;
 
 }
+
+.card-img-top {
+    width: 50px;
+}
+
+/* .card-group{
+    
+} */
