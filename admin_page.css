@@ -29,18 +29,13 @@ body {
     float: inline-start;
 }
 
-.bar-graph {
+
+.bridge {
     width: 200px;
     float: right;
     height: auto;
     flex-wrap: wrap;
     margin-left: 100px;
     padding-left: 100px;
-}
-
-.bridge {
-    width: 400px;
-    float: right;
-   
 
 }

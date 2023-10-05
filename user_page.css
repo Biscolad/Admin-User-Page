@@ -1,3 +1,29 @@
 body {
     width: 100%;
 }
+
+.profile-image {
+    padding: 5px;
+    margin: 20px;
+    width: 500px;
+}
+
+
+
+.info {
+    margin: 20px;
+    padding-left: 20px;
+    background-position: 10px;
+    font-size: medium;
+}
+
+.bottom-images {
+    padding: 40px;
+    width: 40rem;
+}
+
+.mb-3 {
+    padding: 40px;
+    margin: 20px;
+}
+
