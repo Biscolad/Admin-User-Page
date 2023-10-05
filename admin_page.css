@@ -1,0 +1,22 @@
+.login img {
+    width: 120px;
+    height: auto;
+    padding-left: 20px;
+}
+
+.card {
+    margin-left: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 20px;
+    width: 400px;
+    height: 240px;
+ 
+   
+}
+
+
+.col-md-4 {
+    width: 50px;
+    
+}
