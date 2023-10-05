@@ -1,29 +1,46 @@
+body {
+    width: 100%;
+}
+
+.main-container {
+
+}
+
 .login img {
     width: 120px;
     height: auto;
-    padding-left: 20px;
-}
-
-.card {
-    margin-left: 20px;
-    display: flex;
-    flex-wrap: wrap;
-    margin-left: 20px;
-    width: 400px;
-    height: 240px;
- 
+    padding-left: 30px;
    
 }
 
+.login {
+    padding-left: 20px;
+    padding-top: 20px;
+    margin-left: 10px;
+}
 
-.col-md-4 {
-    width: 50px;  
+.flex-column {
+    padding-left: 20px;
+    margin-left: 25px;
 
 }
 
+.picture-data {
+    float: inline-start;
+}
 
-.card mb-3 {
-    display: flex;
+.bar-graph {
+    width: 200px;
+    float: right;
+    height: auto;
     flex-wrap: wrap;
-    flex-direction: row-reverse;
+    margin-left: 100px;
+    padding-left: 100px;
+}
+
+.bridge {
+    width: 400px;
+    float: right;
+   
+
 }
